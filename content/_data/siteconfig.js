@@ -2,29 +2,29 @@ require("dotenv").config();
 
 module.exports = {
     // Website title, shown in left sidebar and in page title
-    title: "{ rené.winkelmeyer }",
+    title: "{ Joe.Irvine }",
     // Site URL to generate absolute URLs. Used across the board.
     url: process.env.URL || "http://localhost:8080",
     // Profile image for left sidebar
-    image: "/assets/images/sidebar_profile.jpg",
+    image: "/assets/images/side_profile.jpg",
     // Image alt text for left sidebar
-    imageAlt: "René and Einstein",
+    imageAlt: "Joe Irvine",
     // Author name, shown in left sidebar, and used in JSON-LD
-    author: "René Winkelmeyer",
+    author: "Joe Irvine",
     // Site description, shown below site image (optional)
-    description: "My kitchen sink about stuff",
+    description: "Follow my journey through web development",
     // OpenGraph default image, in case you don't have an `image`
     // set in your Markdown frontmatter; relevant for social
     // sharing.
     openGraphDefaultImage: "/assets/images/opengraph.jpg",
     // GitHub ID (optional, remove it not needed), used for link in the left sidebar
-    socialGitHub: "muenzpraeger",
+    socialGitHub: "TheShonuff",
     // LinkedIn ID  (optional, remove it not needed), used for link in the left sidebar
-    socialLinkedIn: "muenzpraeger",
+    socialLinkedIn: "joe-irvine-abb73820/",
     // Twitter ID  (optional, remove it not needed), used for link in the left sidebar, and for OpenGraph sharing information
-    socialTwitter: "muenzpraeger",
+    socialTwitter: "gringo665",
     // YouTube ID/Channel  (optional, remove it not needed), used for link in the left sidebar
-    socialYouTube: "UCH60RRaY2GI9m62z1loLjcA",
+    socialYouTube: "UCwMOHBvdVoY0LU01MQofvHg",
     // Google Analytics ID  (optional, remove it not needed), used for... well, Google Analytics
     googleAnalytics: "YOUR_GA-ID",
     // Algolia-powered search  (optional, remove it not needed),

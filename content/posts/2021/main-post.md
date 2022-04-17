@@ -1,16 +1,24 @@
 ---
-title: Your first amazing blog post
-date: 2021-01-27
-image: /assets/images/2021/coolimage.jpg
+title: Hello World
+date: 2022-04-16
+image: /assets/images/2022/first.png
 ---
 
-This is your first blog post. And it can contain a lot of stuff. So let's go through a few things.
+Hello and welcome. I'm really excitied to start this journey of blogging my experinces in web development.
 
-## Code for fun or profit
+## How Did I Get Here?
 
-Having good looking (totally opiniated here, no) code snippets is mandatory. At least for myself. The included Prism config is based on [this selection](https://prismjs.com/download.html#themes=prism-coy&languages=markup+css+clike+javascript+bash+docker+java+regex+ruby+rust+scala+shell-session+typescript&plugins=show-language+toolbar). No standard theme has been chosen, there are some modifications to fit the Chirpy UX.
+Currently I'm an ASE ceritited Master automotive techician. I've been taking night time classes in electrical engineering to further my diagnostic capabilites. It was during a C++ introduction class that I had my eurkea moment.
 
-Find here an excerpt of the visuals.
+I enjoy problem solving. For the longest time I was solving creative design problems mainly in the video production space. After nearly a decade in that space I was getting kinda burntout. I wanted to try something new and very different. So I put on a pair of long sleeves on learned automtoive diagnostics.
+
+I still remember that first major repair that I completed. It was an 2003 VW Beetle. The timing belt blew and bent all the intake and exhaust valves. This was a big job for someone as fresh as I was. After a lot of perservance I was doing 65 mph down the 101 screaming with joy that I had repaired this car with my own two hands.
+
+## What Now?
+
+So I had my eurkea moment! I started learning python. Then I learned HTML , CSS , Javascript. I wanted to start a blog and catalog my journey and share what I have learned. After all relaying what I have learned is the best way to commit to memory, right?
+
+So now I have a blog. It's pretty basic right now. Hopefully more features will be added soon. The basics are here though.. Like fancy excerpt visuals!!
 
 ### Bash
 
@@ -23,28 +31,13 @@ fi
 
 ### JavaScript
 
-```javascript
-const jestLwcConfig = require("@lwc/jest-preset");
-import { resolve } from "path";
+```Javascript
+const myFunction = function(){
+    console.log("My function works");
+}
 
-export const jestConfig = {
-    ...jestLwcConfig,
-    resolver: resolve(__dirname, "../utils/resolver.js")
-};
 ```
 
-## Images, images, images
+## Please Join Me!
 
-First, you'll notice this stunning picture. I got it royalty-free from Pixabay (great site). Now, that's not the point that I want to make here. The image is not added via Markdown, but instead via the `image` value of the Markdown front matter. As it's always good IMHO to start with a visual you'll get a standardized way of addding an image asset.
-
-Second, the image is optimized for your browser size _and_ browser. Depending on what you currently use as browser you'll get i. e. a JPG or a WebP file. All in the right size for the screen. Obviously, all images have standard settings for lazy loading etc.
-
-## Headings all over the place
-
-It's all standard markdown to render the headings, and as well to display the table of contents (TOC) on the right side.
-
-Note: never ever add a first level heading (aka: `h1`) to your page. This will break accessibility, as the title is already an h1, and will be represented as such in the rendered HTML.
-
-## Other stuff
-
-As to be expected you can do all the things that are _standard_ Markdown. So tables, blockquotes etc. And if you prefer to add custom Markdown functionality, just extend the configuration with custom [markdown-it](https://github.com/markdown-it/markdown-it) plugins.
+I'm excitied to share this with you. please subscribe and follow me on Twitter, LinkdIn or YouTube to stay up to date with all my latest discoveries.
