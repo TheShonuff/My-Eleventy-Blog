@@ -4,4 +4,4 @@ layout: page.njk
 title: Why
 ---
 
-You can put your own page here.
+The why I'm blogging is coming soon.
