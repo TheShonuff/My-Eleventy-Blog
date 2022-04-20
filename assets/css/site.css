@@ -154,14 +154,17 @@ html:not(.dark) svg.lighttoggle {
 
 .content h1 {
     @apply text-2xl dark:font-light py-6 mt-4;
+    color: #8be9fd;
 }
 
 .content h2 {
     @apply text-xl mt-6;
+    color: #ff79c6;
 }
 
 .content h3 {
     @apply text-lg mt-6;
+    color: #bd93f9;
 }
 
 .content ol {
