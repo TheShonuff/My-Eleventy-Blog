@@ -16,9 +16,9 @@ When the Internet 2.0 came around I was in more of the creative space. I built s
 
 ![image](https://thedudeway.com/blog-images/Unexplained-Shoot-2.jpg)
 
-![image](https://thedudeway.com/blog-images/unexplained-shoot.jpg)
+I worked on projects with local TV celebrities,philanthropist's and I was involved with an actual TV Show for the History Channel. My favorite project was **Next Level Bullshit** where I analyzed hot current event topics with hours of research. I was even invited to participate in the YouTube Spaces program where I was able to use their full production space to create my content.
 
-I worked on projects with local TV celebrities and philanthropist's. I was involved with an actual TV Show for the History Channel. My favorite project was **Next Level Bullshit** where I analyzed hot current event topics with hours of research. I was even invited to participate in the YouTube Spaces program where I was able to use their full production space to create my content.
+![image](https://thedudeway.com/blog-images/unexplained-shoot.jpg)
 
 ### Then The Internet Changed
 
@@ -26,7 +26,7 @@ Around the time of the 2016 US Presidential Election I was also managing a coupl
 
 ![XKCD Comic](https://imgs.xkcd.com/comics/duty_calls.png)
 
-I grew tired of the constant arguments, so I left the space. I looked for something the was the farthest thing from the Internet and the constant arguments that came with the space.
+I grew tired of the constant arguments, so I left the space. I looked for something that was the farthest thing from the Internet. Instead of being inspired and I was burnout and beatup by the constant arugments that came with being an online presence.
 
 ![throw computer](https://media.giphy.com/media/ghutdpgRkhkxq/giphy.gif)
 
@@ -34,7 +34,7 @@ I grew tired of the constant arguments, so I left the space. I looked for someth
 
 ![image](https://thedudeway.com/blog-images/jeep.jpg)
 
-It all started with an inline 6 1994 Jeep Wrangler. A curiosity grew into a passion of problem solving with my hands. After acquiring some basic skills I found an automotive repair shop willing to take on an apprentice. There I worked under a Master Technician learning the what would need to progress forward.
+It all started with an inline 6 1994 Jeep Wrangler. A curiosity grew into a passion of problem solving with my hands. After acquiring some basic skills I found an automotive repair shop willing to take me on as an apprentice. There I worked under a Master Technician learning the what would need to progress forward.
 
 ![image](https://thedudeway.com/blog-images/vw.jpg)
 
@@ -46,13 +46,13 @@ I still remember that feeling of firing up the car for the first time. It stumbl
 
 ![The Dude in car](https://www.thedudeway.com/blog-images/the-big-lebowski-the-dude.gif)
 
-**I was hooked!!!**
-
 Fast forward a few years and now I'm an Automotive Service Excellence certified Master Technician specializing in electrical diagnostics. I started thinking about what's the next step. I can't work automotive retail repair forever. I started thinking about getting into higher level diagnostics for a manufacturer but I needed a stronger foundation. I enrolled into a Electrical program at my local community college to build that foundation.
 
 ### Eureka!
 
-My classes where going great! I was learning all sorts of concepts and how they can be applied to my everyday diagnostics. My diagnostics times where nearly cut in half when I started applying mathematical formulas to calculate my findings to what was expected. Then along came my introduction to programming class. This class was designed to introduce students to C++ for working with micro-controllers.
+My classes where going great! I was learning all sorts of concepts and how they can be applied to my everyday diagnostics. My diagnostics times where nearly cut in half when I started applying mathematical formulas to calculate my findings to what was expected. Which is really important when you're paid a flat rate. Which means I'm paid on my production and not when I'm idle.
+
+Then along came my introduction to programming class. This class was designed to introduce students to C++ for working with micro-controllers.
 
 The professor handed out a USB bootable distribution of Linux called Knoppix. This method ensured all the students where on the same platform to learn these new concepts so debugging problems was easier.
 
@@ -62,7 +62,7 @@ However, it was the ugliest thing I have ever seen. I've been a Mac OS user fore
 
 ![image](https://thedudeway.com/blog-images/desktop.jpg)
 
-After spending sometime time dialing in my configuration files, the terminal emulator, my development environment and extensions I had that that feeling again.
+After spending sometime time installing the distribution and dialing in my configuration files, the terminal emulator and my development environment. I had that that feeling again.
 
 ![The Dude in car](https://www.thedudeway.com/blog-images/the-big-lebowski-the-dude.gif)
 
