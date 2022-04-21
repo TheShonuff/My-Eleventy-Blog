@@ -1,5 +1,5 @@
 ---
-title: Podcasts I like Right Now
+title: Podcasts I Like Right Now
 date: 2022-04-17
 image: /assets/images/2022/podcast.jpg
 ---

@@ -4,7 +4,7 @@ layout: page.njk
 title: Who
 ---
 
-![image](https://thedudeway.com/blog-images/who-cover.jpg)
+![image](https://www.thedudeway.com/blog-images/noplacelikehome.jpg)
 
 Hello I'm **Joe Irvine**. A Father, Husband and overall curious person. I love learning new concepts and exploring new ideas and activities. This is a webpage about my journey into software and web development. You can also view my full resume and current projects at [TheDudeWay](https://thedudeway.com)
 
@@ -26,11 +26,13 @@ Around the time of the 2016 US Presidential Election I was also managing a coupl
 
 ![XKCD Comic](https://imgs.xkcd.com/comics/duty_calls.png)
 
-I grew tired of the constant arguments, so I left the space. I looked for something that was the farthest thing from the Internet. Instead of being inspired and I was burnout and beatup by the constant arugments that came with being an online presence.
+Now don't get me wrong. I'm not saying it was one particular groups fault. The social media model had reached a tipping point and just changed for the worse.
+
+I ended up growing tired of the constant arguments, and blatant disinformation so I just picked up and left the space. I went looking for an occupation that was the farthest possbile distance from the Internet.
 
 ![throw computer](https://media.giphy.com/media/ghutdpgRkhkxq/giphy.gif)
 
-### Automotive Diagnostics
+### Enter Automotive Diagnostics
 
 ![image](https://thedudeway.com/blog-images/jeep.jpg)
 
