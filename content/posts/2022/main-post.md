@@ -26,9 +26,13 @@ fi
 ### JavaScript
 
 ```Javascript
-const myFunction = function(){
-    console.log("My function works");
+function randomNumber() {
+  let num = Math.floor(Math.random() * 10) + 1;
+  return num;
 }
+
+let num = randomNumber();
+
 
 ```
 
