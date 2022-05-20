@@ -50,7 +50,7 @@ This opinionated formatter is fantastic for maintaining a clean look in your web
   "[python]": { "editor.defaultFormatter": null },
 
   "python.formatting.provider": "black",
-```
+``` 
 
 ### Dracula Theme
 
