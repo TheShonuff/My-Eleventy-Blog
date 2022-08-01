@@ -20,7 +20,7 @@ In my last [blog post](https://www.joeirvine.com/posts/2022/pop-os/) I mentioned
 
 ### Svelte
 
-I've begun experimenting with another framework for a new project at[Frontend Mentor](https://www.frontendmentor.io/challenges/planets-fact-site-gazqN8w_f). This time I've decided to use Svelte. Scott Tolinski from one of my favorite podcast [Syntax.fm](https://syntax.fm/), is always championing the framework. So I thought this was a great opportunity to try it out. I gotta say, so far I'm in love with this. It's so simple and elegant I don't see myself reaching for anything else in the future unless it's absolutely required.
+I've begun experimenting with another framework for a new project at [Frontend Mentor](https://www.frontendmentor.io/challenges/planets-fact-site-gazqN8w_f). This time I've decided to use Svelte. Scott Tolinski from one of my favorite podcast [Syntax.fm](https://syntax.fm/), is always championing the framework. So I thought this was a great opportunity to try it out. I gotta say, so far I'm in love with this. It's so simple and elegant I don't see myself reaching for anything else in the future unless it's absolutely required.
 
 So far the [project](https://creative-gelato-398182.netlify.app/) from Frontend mentor is coming along nicely. At the time of writing I haven't really documented anything worth sharing yet. I'll probably create a post outlining some of my findings that I've noted for future projects.
 
